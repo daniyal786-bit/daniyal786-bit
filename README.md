@@ -20,4 +20,6 @@ Python • FastAPI • LangChain • Groq • FAISS • RAG • NLP • Git • 
 
 ## 🎯 Goal
 To become a skilled AI Engineer and build useful real-world AI applications.
+
+
 🌐 Portfolio Website: https://daniyal786-bit.github.io/daniyal-portfolio/
